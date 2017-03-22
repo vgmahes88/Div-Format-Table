@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'DIN-Black';
+  src: url('../fonts/DIN-Black.eot?#iefix') format('embedded-opentype'),
+	   url('../fonts/DIN-Black.otf')  format('opentype'),
+	   url('../fonts/DIN-Black.woff') format('woff'), 
+	   url('../fonts/DIN-Black.ttf')  format('truetype'), 
+	   url('../fonts/DIN-Black.svg#DIN-Black') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+body
+{
+	 font-family: 'DIN-Black';
+}
+.draft_tpl_cc
+{
+ width:1200px;
+ background-image:url("../img/BG.png");
+ background-size:100% 100%;
+ background-repeat:no-repeat;
+}
+.cpl_dttpl_c
+{
+	width:14.28%;
+}
+.cpl_dt_sponserh
+{
+	background-image:url("../img/header_bg.png");
+	background-size:100% 100%;
+	height:104px;
+}
+.cpl_sponser_title h2
+{
+	font-family: 'DIN-Black';
+	color:#fff;
+	text-transform:uppercase;
+	font-size:35px;
+	padding-top: 15px;
+}
+.cpl_dft_logo img
+{
+	padding:10px;
+}
+.cpl_dt_team_h
+{
+	background-image:url("../img/Grenn_bg.png");
+	background-size:100% 100%;
+}
+.cpl_dt_con_ct
+{
+	background-image:url("../img/cpl_dt_content_bg.png");
+	background-size:100% 100%;
+	margin-top:3px;
+	margin-bottom:3px;
+}
+.cpl_value_inf h4,.cpl_value_inf h4 small
+{
+	text-transform:uppercase;
+	color:#fff;
+	
+}
+.cpl_value_v
+{
+	height: 60px;
+	display: table-cell;
+	vertical-align: middle;
+}
+.cpl_value_r1 h4
+{
+	margin-top: 20px;
+}
+.draft_tpl_sc
+{
+	width:1110px;
+	margin:0 auto;
+	margin-bottom: 10px;
+	margin-top:20px;
+}
+.cpl_dt_lf a,
+.cpl_dt_rf a
+{
+	color:#fff;
+	font-size:16px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.cpl_rt_value
+{
+	font-size:31px;
+}
